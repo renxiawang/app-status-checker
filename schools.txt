@@ -1,0 +1,5 @@
+Harvard https://app.applyyourself.com/AYApplicantLogin/ApplicantConnectLogin.asp?id=hgsas **** ****
+USC https://app.applyyourself.com/?id=usc-grad **** ****
+UMTC https://app.applyyourself.com/AYApplicantLogin/ApplicantConnectLogin.asp?id=UMN-GRAD **** ****
+DARTMOUTH https://app.applyyourself.com/?id=dart-grad **** ****
+SBU https://app.applyyourself.com/?id=sunysb-gs **** ****
